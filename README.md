@@ -2,6 +2,7 @@
 A pomodoro clock built using the Pico W and Pico Display Pack 2.0. 
 
 I built this to get familiar with the pimoroni micropython libraries and to familiarize myself with other general Pico W features like wifi and low-power mode. 
+I also wanted to learn how to design my own 3d models to print on my new 3d printer. 
 
 ## Repository organization 
 
